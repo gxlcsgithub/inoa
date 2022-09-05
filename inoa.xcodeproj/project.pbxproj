@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F147F8A629B23EE200836C34 /* Resume.html in Resources */ = {isa = PBXBuildFile; fileRef = F147F8A529B23EE200836C34 /* Resume.html */; };
+		F147F8A729B23EE200836C34 /* Resume.html in Resources */ = {isa = PBXBuildFile; fileRef = F147F8A529B23EE200836C34 /* Resume.html */; };
 		F1757F8728C5C42000575262 /* Tests_iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1757F8628C5C42000575262 /* Tests_iOS.swift */; };
 		F1757F8928C5C42000575262 /* Tests_iOSLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1757F8828C5C42000575262 /* Tests_iOSLaunchTests.swift */; };
 		F1757F9328C5C42000575262 /* Tests_macOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1757F9228C5C42000575262 /* Tests_macOS.swift */; };
@@ -41,6 +43,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F147F8A529B23EE200836C34 /* Resume.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = Resume.html; sourceTree = "<group>"; };
 		F1757F6A28C5C41F00575262 /* inoaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = inoaApp.swift; sourceTree = "<group>"; };
 		F1757F6B28C5C41F00575262 /* inoaDocument.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = inoaDocument.swift; sourceTree = "<group>"; };
 		F1757F6C28C5C41F00575262 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -113,6 +116,7 @@
 				F1757F6B28C5C41F00575262 /* inoaDocument.swift */,
 				F1757F6C28C5C41F00575262 /* ContentView.swift */,
 				F1757F6D28C5C42000575262 /* Assets.xcassets */,
+				F147F8A529B23EE200836C34 /* Resume.html */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -291,6 +295,7 @@
 				F1757FB328C5CCFC00575262 /* index.html in Resources */,
 				F1757FB128C5CA9600575262 /* README.md in Resources */,
 				F1757F9C28C5C42000575262 /* Assets.xcassets in Resources */,
+				F147F8A629B23EE200836C34 /* Resume.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +304,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F1757F9D28C5C42000575262 /* Assets.xcassets in Resources */,
+				F147F8A729B23EE200836C34 /* Resume.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
