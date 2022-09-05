@@ -19,6 +19,8 @@
 		F1757F9B28C5C42000575262 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1757F6C28C5C41F00575262 /* ContentView.swift */; };
 		F1757F9C28C5C42000575262 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1757F6D28C5C42000575262 /* Assets.xcassets */; };
 		F1757F9D28C5C42000575262 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1757F6D28C5C42000575262 /* Assets.xcassets */; };
+		F1757FB128C5CA9600575262 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = F1757FB028C5CA9600575262 /* README.md */; };
+		F1757FB328C5CCFC00575262 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = F1757FB228C5CCFC00575262 /* index.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +56,8 @@
 		F1757F8E28C5C42000575262 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1757F9228C5C42000575262 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		F1757F9428C5C42000575262 /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
+		F1757FB028C5CA9600575262 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		F1757FB228C5CCFC00575262 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +95,8 @@
 		F1757F6428C5C41F00575262 = {
 			isa = PBXGroup;
 			children = (
+				F1757FB228C5CCFC00575262 /* index.html */,
+				F1757FB028C5CA9600575262 /* README.md */,
 				F1757F6928C5C41F00575262 /* Shared */,
 				F1757F7428C5C42000575262 /* iOS */,
 				F1757F7B28C5C42000575262 /* macOS */,
@@ -282,6 +288,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F1757FB328C5CCFC00575262 /* index.html in Resources */,
+				F1757FB128C5CA9600575262 /* README.md in Resources */,
 				F1757F9C28C5C42000575262 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
